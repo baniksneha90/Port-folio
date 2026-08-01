@@ -186,14 +186,14 @@ transform:translateX(0);
 }
 
 .hero-text h1{
-    .hero-text h1{
+   
 
 font-size:82px;
 
 font-weight:800;
 
 }
-}
+
 
 .hero-text h2{
 
@@ -397,6 +397,7 @@ img{
     width:350px;
     height:350px;
     border-radius:25px;
+    display:block;
     object-fit:cover;
     border:5px solid #38bdf8;
     box-shadow:0 0 35px rgba(56,189,248,.4);
